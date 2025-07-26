@@ -1,4 +1,4 @@
-# Bond Pricces and Inteerest Rates Valuation
+# Bond Prices and Inteerest Rates Valuation
 
 ## 📌 Contents
 
