@@ -33,9 +33,7 @@
 - [Bank of England Yield Curve Data](https://www.bankofengland.co.uk/-/media/boe/files/statistics/yield-curves/glcnominalmonthedata.zip)
 
 ## 🔧 Tools Used
-- Excel (for surface chart plotting)
-- Python/Excel (for data analysis and bond price calculations)
-- GitHub (for version control and documentation)
+- Excel (for surface chart plotting, data analysis and bond price calculations)
 
 ## 📅 Timeline
 Analysis spans data from **January 2019 to September 2024**, with a focus on key interest rate decisions in **September 2023** and **August 2024**.
